@@ -10,7 +10,7 @@ HR：请问…………
 
 （Summary.md 是目录噢！！）
 
-如果您也愿意参与本项目，欢迎通过**微信: XR3327026244** 投稿面试题或反馈问题，我们会在后续版本中加入您的名字
+如果您也愿意参与本项目投稿面试题，欢迎提交你的 pr 请求。作者微信：**XR3327026244**
 
 **🙏 特别感谢名单**
 
@@ -39,5 +39,6 @@ HR：请问…………
 - [YaYaLiou 网安](https://www.yuque.com/yayaliou/efr8d4/gmbgyxy16urr665z?singleDoc#)
 - [zero](https://forum.butian.net/people/25569)
 - **星盟安全-namename123**
+- **H1sec**
 
 添加友链请加上方微信
